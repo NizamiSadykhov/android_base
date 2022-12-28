@@ -6,4 +6,11 @@
     <string name="exercise_1_cb_2_text">Чай, кофе, печеньки,</string>
     <string name="exercise_1_cb_3_text">Красивые, молодые, незамужние HR-ки</string>
     <string name="exercise_1_tb_text">Кнопка из 2000-ых годов</string>
+    <string name="hint_name_product">Название продукта</string>
+    <string name="hint_full_name">ФИО</string>
+    <string name="hint_phone_number">Номер телефона</string>
+    <string name="hint_product_quantity">Количество</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_email">Электронная почта</string>
+    <string name="hint_production_date">Дата производства</string>
 </resources>
