@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android Base</string>
+    <string name="exercise_1_tv_text">Я уже Middle разработчик</string>
+    <string name="exercise_1_et_text">Каким вы видите себя через 5 лет ?</string>
+    <string name="exercise_1_cb_1_text">Молодой и дружный коллектив</string>
+    <string name="exercise_1_cb_2_text">Чай, кофе, печеньки,</string>
+    <string name="exercise_1_cb_3_text">Красивые, молодые, незамужние HR-ки</string>
+    <string name="exercise_1_tb_text">Кнопка из 2000-ых годов</string>
 </resources>
