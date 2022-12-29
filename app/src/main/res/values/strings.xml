@@ -13,4 +13,7 @@
     <string name="hint_password">Пароль</string>
     <string name="hint_email">Электронная почта</string>
     <string name="hint_production_date">Дата производства</string>
+    <string name="select">Выбрать</string>
+    <string name="default_date">00.00.0000</string>
+    <string name="selected_date">Выбранная дата:</string>
 </resources>
